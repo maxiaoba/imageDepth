@@ -1,2 +1,4 @@
 .env
 *checkpoints
+*.mat
+.ipynb_checkpoints
