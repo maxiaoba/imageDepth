@@ -2,7 +2,10 @@
 *checkpoints
 *.mat
 .ipynb_checkpoints
+<<<<<<< HEAD
 alldata*
 save*
 save*/
 *.npy
+=======
+>>>>>>> 9544f4aa77261b04a9a5071e93b19b03079fe08d
